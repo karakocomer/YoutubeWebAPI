@@ -1,0 +1,9 @@
+c:\users\wissen\documents\visual studio 2015\Projects\YoutubeWebAPI\YoutubeWebAPI\bin\Debug\YoutubeWebAPI.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\YoutubeWebAPI\YoutubeWebAPI\bin\Debug\YoutubeWebAPI.exe
+c:\users\wissen\documents\visual studio 2015\Projects\YoutubeWebAPI\YoutubeWebAPI\bin\Debug\YoutubeWebAPI.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\YoutubeWebAPI\YoutubeWebAPI\obj\Debug\YoutubeWebAPI.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\YoutubeWebAPI\YoutubeWebAPI\obj\Debug\YoutubeWebAPI.Form1.resources
+c:\users\wissen\documents\visual studio 2015\Projects\YoutubeWebAPI\YoutubeWebAPI\obj\Debug\YoutubeWebAPI.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2015\Projects\YoutubeWebAPI\YoutubeWebAPI\obj\Debug\YoutubeWebAPI.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2015\Projects\YoutubeWebAPI\YoutubeWebAPI\obj\Debug\YoutubeWebAPI.exe
+c:\users\wissen\documents\visual studio 2015\Projects\YoutubeWebAPI\YoutubeWebAPI\obj\Debug\YoutubeWebAPI.pdb
